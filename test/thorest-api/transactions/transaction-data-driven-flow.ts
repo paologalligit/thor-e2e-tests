@@ -87,6 +87,8 @@ class TransactionDataDrivenFlow {
 
         expectedResult({block, txId})
     }
+
+    private uselessFunction() {}
 }
 
 /** 
